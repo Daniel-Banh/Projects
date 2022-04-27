@@ -1,0 +1,226 @@
+:host {
+  height: 100%;
+  display: flex;
+  align-items: stretch;
+}
+.group {
+  align-items: stretch;
+  position: relative;
+  padding: 24px;
+  flex-grow: 1;
+  flex-basis: 0;
+  min-width: 50px;
+  min-height: 50px;
+}
+.image {
+  min-width: 0;
+  min-height: 0;
+  top: -2px;
+  left: -1px;
+  width: 102px;
+  height: 906px;
+  flex-shrink: 0;
+  object-fit: cover;
+  position: absolute;
+}
+.group_1 {
+  top: 27px;
+  left: 27px;
+  width: 1370px;
+  height: 872px;
+  background-color: hsla(var(--igx-primary-400));
+  min-width: 50px;
+  min-height: 50px;
+  position: absolute;
+}
+.group_2 {
+  top: -4px;
+  left: 90px;
+  width: 1309px;
+  height: 143px;
+  background-color: hsla(var(--igx-primary-500));
+  border-color: hsla(var(--igx-primary-800));
+  border-style: solid;
+  min-width: 50px;
+  min-height: 50px;
+  position: absolute;
+}
+.h2 {
+  top: 18.360598995811024px;
+  left: 454.3201778211083px;
+  color: hsla(var(--igx-success-500));
+  min-width: min-content;
+  height: max-content;
+  position: absolute;
+}
+.group_3 {
+  top: 104.80350877192984px;
+  left: 255.09824561403505px;
+  width: 975px;
+  height: 803px;
+  background-color: hsla(var(--igx-primary-300));
+  min-width: 50px;
+  min-height: 50px;
+  position: absolute;
+}
+.h3 {
+  top: 405px;
+  left: 545.331578947368px;
+  color: hsla(var(--igx-success-500));
+  min-width: min-content;
+  height: max-content;
+  position: absolute;
+}
+.h3_1 {
+  top: 404.63428600378217px;
+  left: 43.90175438596492px;
+  min-width: min-content;
+  height: max-content;
+  position: absolute;
+}
+.h4 {
+  top: 25.97375968799285px;
+  left: 29.428925845497535px;
+  min-width: min-content;
+  height: max-content;
+  position: absolute;
+}
+.h5 {
+  top: 217.36763107567518px;
+  left: 41px;
+  min-width: min-content;
+  height: max-content;
+  position: absolute;
+}
+.h5_1 {
+  top: 463.68078897041175px;
+  left: 58.839452161287056px;
+  min-width: min-content;
+  height: max-content;
+  position: absolute;
+}
+.h6 {
+  top: 460.0044731809383px;
+  left: 560.9096491228078px;
+  min-width: min-content;
+  height: max-content;
+  position: absolute;
+}
+.h6_1 {
+  top: 319.07903458444713px;
+  left: 65px;
+  min-width: min-content;
+  height: max-content;
+  position: absolute;
+}
+.h5_2 {
+  top: 566.6176310756751px;
+  left: 59.127192982456165px;
+  min-width: min-content;
+  height: max-content;
+  position: absolute;
+}
+.text {
+  top: 493.0913152862016px;
+  left: 69.05789473684209px;
+  color: hsla(var(--igx-success-500));
+  min-width: min-content;
+  height: max-content;
+  position: absolute;
+}
+.text_1 {
+  top: 484.5132451107629px;
+  left: 567.8114035087718px;
+  color: hsla(var(--igx-success-500));
+  min-width: min-content;
+  height: max-content;
+  position: absolute;
+}
+.h5_3 {
+  top: 292.11938546164004px;
+  left: 41.323684210526324px;
+  min-width: min-content;
+  height: max-content;
+  position: absolute;
+}
+.text_2 {
+  top: 599.7044731809386px;
+  left: 69.12719298245615px;
+  color: hsla(var(--igx-success-500));
+  min-width: min-content;
+  height: max-content;
+  position: absolute;
+}
+.h6_2 {
+  top: 249.22903458444708px;
+  left: 64.96664514374316px;
+  min-width: min-content;
+  height: max-content;
+  position: absolute;
+}
+.icon {
+  top: 46.54568671510932px;
+  left: 1192.0342129088278px;
+  width: 36px;
+  height: 36px;
+  font-size: 36px;
+  position: absolute;
+}
+.avatar {
+  top: 71.54043809321885px;
+  left: 33.10524163497123px;
+  color: hsla(var(--igx-grays-800));
+  background-color: hsla(var(--igx-grays-400));
+  position: absolute;
+}
+.icon_1 {
+  top: 468.1228070175433px;
+  left: 298.98263442725425px;
+  width: 24px;
+  height: 24px;
+  font-size: 24px;
+  position: absolute;
+}
+.icon_2 {
+  top: 459.5447368421046px;
+  left: 725.4352660062012px;
+  width: 24px;
+  height: 24px;
+  font-size: 24px;
+  position: absolute;
+}
+.icon_3 {
+  top: 569.8342105263152px;
+  left: 175.21333618164044px;
+  width: 24px;
+  height: 24px;
+  font-size: 24px;
+  position: absolute;
+}
+.icon_4 {
+  left: 1144.2421076456703px;
+  top: 46.5456867151093px;
+  width: 36px;
+  height: 36px;
+  font-size: 36px;
+  position: absolute;
+}
+.icon_5 {
+  left: 1241.0517567684767px;
+  top: 46.5456867151093px;
+  width: 36px;
+  height: 36px;
+  font-size: 36px;
+  position: absolute;
+}
+.button {
+  top: 85.02026265462233px;
+  left: 140.94383812619947px;
+  position: absolute;
+  height: max-content;
+  min-width: min-content;
+  background-color: hsla(var(--igx-primary-700));
+}
+.row {
+  display: flex;
+}
